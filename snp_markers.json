@@ -1,0 +1,42 @@
+{
+  "HLA-DRB1": {
+    "rs2476601": ["Rheumatoid Arthritis", 0.8],
+    "rs9277535": ["Type 1 Diabetes", 0.7],
+    "rs660895": ["Multiple Sclerosis", 0.75]
+  },
+  "PTPN22": {
+    "rs12760457": ["Type 1 Diabetes", 0.75],
+    "rs2476601": ["Systemic Lupus Erythematosus", 0.65],
+    "rs33996649": ["Vitiligo", 0.6]
+  },
+  "IL23R": {
+    "rs11209026": ["Crohn's Disease", 0.85],
+    "rs7530511": ["Ulcerative Colitis", 0.7],
+    "rs10889677": ["Psoriasis", 0.8]
+  },
+  "CARD14": {
+    "rs11652075": ["Psoriasis", 0.9],
+    "rs12191877": ["Psoriatic Arthritis", 0.8],
+    "rs10782001": ["Psoriasis", 0.7]
+  },
+  "STAT4": {
+    "rs7574865": ["Systemic Lupus Erythematosus", 0.7],
+    "rs11889341": ["Rheumatoid Arthritis", 0.6],
+    "rs10181656": ["Sjogren's Syndrome", 0.65]
+  },
+  "TNFAIP3": {
+    "rs6920220": ["Multiple Sclerosis", 0.7],
+    "rs2230926": ["Systemic Lupus Erythematosus", 0.65],
+    "rs610604": ["Celiac Disease", 0.6]
+  },
+  "CTLA4": {
+    "rs3087243": ["Type 1 Diabetes", 0.6],
+    "rs231775": ["Graves' Disease", 0.7],
+    "rs5742909": ["Autoimmune Thyroid Disease", 0.65]
+  },
+  "NOD2": {
+    "rs2066844": ["Crohns Disease", 0.8],
+    "rs2066845": ["Crohns Disease", 0.75],
+    "rs5743293": ["Crohns Disease", 0.7]
+  }
+}
